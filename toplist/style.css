@@ -1,0 +1,15 @@
+
+.app {
+    display: flex;
+}
+
+.description {
+	color: #002f6c;
+	box-sizing: border-box;
+	max-width: 705px;
+	padding: 10px;
+}
+.screenshot {
+	box-sizing: border-box;
+	max-width: 420px;
+}
