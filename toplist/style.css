@@ -4,12 +4,31 @@
 }
 
 .description {
-	color: #002f6c;
+	color: #7C8B88;
 	box-sizing: border-box;
 	max-width: 705px;
 	padding: 10px;
+	margin: 5px;
+	font-family: helvetica;
 }
+
 .screenshot {
 	box-sizing: border-box;
-	max-width: 420px;
+	max-width: 500px;
+	margin: 10px;
+}
+
+h1 {
+	 display: flex;
+  		justify-content: center;
+  		align-items: center;
+	background-color: #33BEBE;
+	max-width: 925px;
+	height: 80px;
+	margin-top: 25px;
+	margin-left: 10px;
+	color: white;
+	font-family: helvetica;
+	font-size: 40px;
+	font-weight: normal;
 }
